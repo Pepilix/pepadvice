@@ -1,12 +1,12 @@
 {
-  "name": "PepAdvice - Peptide Calculator & Reference",
-  "short_name": "PepAdvice",
-  "start_url": "./peptide-dosage-calculator.html",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#F7F3EA",
-  "theme_color": "#48532F",
-  "icons": [
-    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
-  ]
+    "name": "PepAdvice - Peptide Calculator & Reference",
+    "short_name": "PepAdvice",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#F7F3EA",
+    "theme_color": "#48532F",
+    "icons": [
+          { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    ]
 }
